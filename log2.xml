@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-08T13:36:31.343984200Z</date>
+  <millis>1675863391343</millis>
+  <nanos>984200</nanos>
+  <sequence>0</sequence>
+  <logger>DomashkiJava.New.task</logger>
+  <level>INFO</level>
+  <class>DomashkiJava.New.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.1 / 0.3 = 7.000000000000001</message>
+</record>
+</log>
